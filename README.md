@@ -1,4 +1,4 @@
-# Network Traffic Analysis (NTA) CN-Project
+# Network Traffic Analysis (NTA), CN-Project
 
 A comprehensive Python-based Network Traffic Analysis tool that provides real-time monitoring and analysis of network traffic for security, performance, and compliance purposes. This tool uses raw sockets to capture and inspect Ethernet and IP packets, offering detailed insights into network behavior and potential security threats.
 
